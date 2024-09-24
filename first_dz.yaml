@@ -1,0 +1,26 @@
+user:
+    is_admin: yes
+    name: Yaroslav
+    age: 24
+    position: progger
+    skills:
+        - java
+        - kuber
+    living: Spb
+    pets: [cat, mouse]
+skill:
+    name: java
+    level: 4
+    desc: |
+        good knowledge
+        deep knowledge
+living:
+    country: Russia
+    city: Spb
+    street: Sennaya
+    house: 42
+    flat: 23
+pet:
+    name: cat
+    kind: bold
+    is_talk: yes
